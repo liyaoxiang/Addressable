@@ -1,0 +1,2 @@
+# Addressable
+这是对Unity的Addressable功能的一个测试
